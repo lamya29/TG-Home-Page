@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TG-Home-Page/static/css/main.90cd2e9a.css",
+    "main.js": "/TG-Home-Page/static/js/main.34b584e1.js",
+    "static/js/787.49ee3c21.chunk.js": "/TG-Home-Page/static/js/787.49ee3c21.chunk.js",
+    "static/media/Map.svg": "/TG-Home-Page/static/media/Map.aea7de651988bd790221.svg",
+    "index.html": "/TG-Home-Page/index.html",
+    "main.90cd2e9a.css.map": "/TG-Home-Page/static/css/main.90cd2e9a.css.map",
+    "main.34b584e1.js.map": "/TG-Home-Page/static/js/main.34b584e1.js.map",
+    "787.49ee3c21.chunk.js.map": "/TG-Home-Page/static/js/787.49ee3c21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cd2e9a.css",
+    "static/js/main.34b584e1.js"
+  ]
+}
